@@ -8,21 +8,18 @@
 ![Preview](https://cdn.discordapp.com/attachments/1056824140402802718/1057747401932288040/image.png)
 ---
 
-## `🛡️ Drainer Features`
-
-✅ Fully Automated Transfers Directly to your Address.
-
-✅ Fully Encrypted Chat Logs, Anti Tampering.
-
-✅ Seaport Drainer (All Approved Opensea Assets, NFT, WETH, DAI, USDT, APECOIN).
-
-✅ SAFA Drainer (SetApprovalForAll).
-
-✅ ERC20 Drainer (Steals ERC20 Tokens).
-
-✅ ETH Drainer (Steals ETH).
-
-🤝 Full Drainer Source Code Price - 1 ETH Only
+## `❤️ Monkey Drainer Features`
+- Fully Automated Transfers Directly to your Address
+- Fully Encrypted Chat Logs, Anti Tampering
+  [![LOGS.jpg](https://i.postimg.cc/pVcj0Swt/LOGS.jpg)](https://postimg.cc/t7P7JBRr)
+- Seaport Drainer (All Approved Opensea Assets, NFT, WETH, DAI, USDT, APECOIN)
+- Uniswap Drainer (ERC20 Drainer)
+- CryptoPunks Drainer (Steals CryptoPunks)
+- SAFA Drainer (SetApprovalForAll)
+- ERC20 Drainer (Steals ERC20 Tokens)
+- ETH Drainer (Steals ETH)
+- WalletConnect Support (600+ More Wallets)
+- NFT Pricing Priority List (all big NFTS hardcoded price)
 
 
 ## `🐧 Socials`
