@@ -1,4 +1,4 @@
-# Welcome! ` [PRICE REDUCED TO 500 USD] `
+# Welcome! ` [PRICE REDUCED TO 150 USD] `
  ### 📩**Message me on [Telegram](https://t.me/crypto_scem) to buy the full backend + frontend clean source codes.**
 ---
 ## 🔥 Our Drainer literally drains EVERY. SINGLE. POSSIBLE. TYPE. OF. TOKEN. FROM VICTIM
