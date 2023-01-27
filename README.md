@@ -1,5 +1,7 @@
 # Welcome! 
- ### 📩**Message me on [Telegram](https://t.me/crypto_scem) to buy the full backend + frontend clean source codes.**
+ ### 📩 **Message me to buy the full backend + frontend clean source codes.**
+ - Telegram: https://t.me/crypto_scem
+ - Discord: fcked#0341
 ---
 ## 🔥 Our Drainer literally drains EVERY. SINGLE. POSSIBLE. TYPE. OF. TOKEN. FROM VICTIM
 
